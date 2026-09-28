@@ -6,7 +6,7 @@ elif marks >= 60:
 elif marks >= 40:
 	print("Good!keep going")
 else :
-		print("Fail!Don't give up")
+	print("Fail!Don't give up")
 
 
 
