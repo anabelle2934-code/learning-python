@@ -1,0 +1,29 @@
+marks = int(input("Enter your marks :"))
+if marks >= 80:
+	print("Excellent!!!")
+elif marks >= 60:
+	print("Great Job!")
+elif marks >= 40:
+	print("Good!keep going")
+else :
+	print("Fail!Don't give up")
+
+
+
+number = int(input("Enter a number : "))
+if number >= 1:
+	print("Positive!")
+elif number <= -1:
+	print("Negative!")
+else:
+	print("Zero")
+
+
+
+age = int(input("Enter your age: "))
+if age <=13:
+	print("You're a child!")
+elif age <= 17:
+	print("You are a teeneger!")
+else:
+	print("You are an adult!")
